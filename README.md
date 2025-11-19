@@ -14,4 +14,4 @@ Tools and Technology
 
 WordPress as the content management system A custom theme for branding Domain name: greenfuture.org.za Hosting and maintenance support
 
-GITHUB LINK: https://github.com/Phethego307/WEDE502-Part-2/tree/main/WEDE502
+GITHUB LINK: https://github.com/Phethego307/WEDE5020-POE-3/tree/main
